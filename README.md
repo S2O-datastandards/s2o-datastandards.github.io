@@ -5,6 +5,6 @@
 
   # S2O-datastandards's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[s2o-datastandards.github.io](https://s2o-datastandards.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
