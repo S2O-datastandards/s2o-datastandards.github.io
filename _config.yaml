@@ -1,3 +1,5 @@
+### Basic settings ---
+
 # site properties and page defaults
 title: S2O-datastandards
 subtitle: 
@@ -8,16 +10,14 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@S2O-datastandards.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: DataStandards@rti.org
   github: S2O-datastandards
   twitter: S2O-datastandards
   youtube: S2O-datastandards
 
 ### jekyll settings
 
-# front matter defaults
+# front matter defaults - default parameters for markdown files
 defaults:
   # all markdown files
   - scope:
