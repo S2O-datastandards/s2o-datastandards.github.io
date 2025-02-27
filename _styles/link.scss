@@ -36,4 +36,18 @@ a:not([href]) {
     flex-direction: row-reverse;
   }
 
+  &[data-style="button"] {
+    max-width: calc(100% - 10px - 10px);
+    min-height: 40px;
+    margin: 10px;
+    padding: 5px 10px;
+    border-radius: var(--rounded);
+    background: var(--primary);
+    color: var(--background);
+
+    &:hover {
+      background: var(--secondary);
+    }
+  }
+
 }
