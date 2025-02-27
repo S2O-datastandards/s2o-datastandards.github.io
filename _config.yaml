@@ -11,7 +11,7 @@ proofer: false
 # site social media and other links
 links:
   email: DataStandards@rti.org
-  github: https://github.com/S2O-datastandards/repositories
+  github: https://github.com/S2O-datastandards
   twitter: S2O-datastandards
   youtube: S2O-datastandards
 
