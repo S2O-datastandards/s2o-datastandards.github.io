@@ -31,5 +31,17 @@ a:not([href]) {
 .link[data-flip=true] {
   flex-direction: row-reverse;
 }
+.link[data-style=button] {
+  max-width: calc(100% - 10px - 10px);
+  min-height: 40px;
+  margin: 10px;
+  padding: 5px 10px;
+  border-radius: var(--rounded);
+  background: var(--primary);
+  color: var(--background);
+}
+.link[data-style=button]:hover {
+  background: var(--secondary);
+}
 
 /*# sourceMappingURL=link.css.map */
