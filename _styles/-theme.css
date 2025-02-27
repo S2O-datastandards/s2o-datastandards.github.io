@@ -1,31 +1,31 @@
 [data-dark=false] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
+  --primary: #1E4F96;
+  --secondary: #3EB1C8;
   --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
-  --light-gray: #e0e0e0;
-  --gray: #808080;
-  --dark-gray: #404040;
+  --light-gray: #DFE1E2;
+  --gray: #9DA4A8;
+  --dark-gray: #5B6770;
   --overlay: #00000020;
 }
 
 [data-dark=true] {
-  --primary: #0795d9;
-  --secondary: #075985;
+  --primary: #1E4F96;
+  --secondary: #206472;
   --text: #ffffff;
   --background: #181818;
   --background-alt: #1c1c1c;
-  --light-gray: #404040;
-  --gray: #808080;
-  --dark-gray: #b0b0b0;
+  --light-gray: #5B6770;
+  --gray: #9DA4A8;
+  --dark-gray: #DFE1E2;
   --overlay: #ffffff10;
 }
 
 :root {
   --title: "Lato", sans-serif;
-  --heading: "Lato", sans-serif;
-  --body: "Lato", sans-serif;
+  --heading: "Open Sans", sans-serif;
+  --body: "Open Sans", sans-serif;
   --code: "Source Code Pro", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
