@@ -1,7 +1,7 @@
 ---
 ---
 
-# S2O Data Standards's Website
+# S2O Data Standards
 
 This project leads the development of community-driven data and metadata standards to facilitate and improve the interoperability of Environmental Health Science (EHS) data from distinct but related subdomains. We are engaging both standards and ontology developers, as well as subject matter experts across the different EHS subdomains to guide standards creation. Our approach will leverage the existing Aggregate Exposure Pathway (AEP) and Adverse Outcome Pathway (AOP) mechanistic frameworks to organize efforts linking subdomains across the source-to-outcome (S2O) continuum.   
 
