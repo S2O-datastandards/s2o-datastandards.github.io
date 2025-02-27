@@ -13,8 +13,7 @@ button {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
-  max-width: calc(100% - 5px - 5px);
+  max-width: calc(100% - 10px - 10px);
   margin: 5px;
   padding: 8px 15px;
   border: none;
@@ -27,7 +26,6 @@ button {
   font-weight: var(--semi-bold);
   text-decoration: none;
   vertical-align: middle;
-  appearance: none;
   transition: background var(--transition), color var(--transition);
 }
 
