@@ -42,7 +42,7 @@ a:not([href]) {
     min-height: 40px;
     margin: 10px;
     padding: 5px 10px;
-    border-radius: $rounded;
+    border-radius: var(--rounded);
     background: var(--primary);
     color: var(--background);
 
