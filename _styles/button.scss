@@ -14,7 +14,8 @@ button {
   justify-content: center;
   align-items: center;
   max-width: calc(100% - 10px - 10px);
-  margin: 5px;
+  min-height: 40px;
+  margin: 10px;
   padding: 8px 15px;
   border: none;
   border-radius: var(--rounded);
@@ -30,7 +31,7 @@ button {
 }
 
 .button:hover {
-  background: var(--text);
+  background: var(--secondary);
   color: var(--background);
 }
 
@@ -40,7 +41,7 @@ button {
   color: var(--primary);
 
   &:hover {
-    color: var(--text);
+    color: var(--secondary);
   }
 } 
 
