@@ -13,7 +13,6 @@ This project leads the development of community-driven data and metadata standar
   link="s2o-datastandards"
   style="button"
 %}
-
 {%
   include link.html
   type="docs"
