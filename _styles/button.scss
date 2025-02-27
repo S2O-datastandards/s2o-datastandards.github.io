@@ -36,7 +36,7 @@ button {
   color: var(--background);
 }
 
-.button[data-style="bare"] {
+/* .button[data-style="bare"] {
   padding: 5px;
   background: none;
   color: var(--primary);
@@ -44,7 +44,7 @@ button {
   &:hover {
     color: var(--text);
   }
-}
+} */
 
 .button[data-flip] {
   flex-direction: row-reverse;
