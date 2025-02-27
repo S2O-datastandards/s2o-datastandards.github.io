@@ -5,11 +5,11 @@ a {
 }
 
 a:hover {
-  color: var(--text);
+  color: var(--secondary);
 }
 
 a:not([href]) {
-  color: var(--text);
+  color: var(--secondary);
 }
 
 .link {
