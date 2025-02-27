@@ -12,4 +12,24 @@ a:not([href]) {
   color: var(--secondary);
 }
 
+.link {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  max-width: 100%;
+  margin: 5px;
+  padding: 5px;
+  font-size: 0.9rem;
+  text-decoration: none;
+  vertical-align: middle;
+}
+.link span {
+  text-align: center;
+  line-height: 1;
+}
+.link[data-flip=true] {
+  flex-direction: row-reverse;
+}
+
 /*# sourceMappingURL=link.css.map */
