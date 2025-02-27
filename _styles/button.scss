@@ -1,13 +1,13 @@
 ---
 ---
 
-button {
+/*button {
   cursor: pointer;
 }
 
 .button-wrapper {
   display: contents;
-}
+}*/
 
 .button {
   display: inline-flex;
@@ -44,8 +44,8 @@ button {
   &:hover {
     color: var(--text);
   }
-} */
+} 
 
 .button[data-flip] {
   flex-direction: row-reverse;
-}
+}*/
