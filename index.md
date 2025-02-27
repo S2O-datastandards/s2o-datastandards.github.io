@@ -1,5 +1,4 @@
 ---
-title: Home
 ---
 
 # S2O Data Standards's Website
