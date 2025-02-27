@@ -9,7 +9,16 @@ This project leads the development of community-driven data and metadata standar
   include link.html
   type="github"
   icon=""
-  text="Checkout our GitHub"
+  text="Check out our GitHub"
+  link="s2o-datastandards"
+  style="button"
+%}
+
+{%
+  include link.html
+  type="docs"
+  icon="images/biolink-logo.png"
+  text="Check out BioLink GitHub"
   link="s2o-datastandards"
   style="button"
 %}
