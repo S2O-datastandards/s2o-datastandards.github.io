@@ -27,10 +27,10 @@
 
 :root {
   // font families
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
-  --code: "Roboto Mono", monospace;
+  --title: "Lato", sans-serif;
+  --heading: "Lato", sans-serif;
+  --body: "Lato", sans-serif;
+  --code: "Source Code Pro", monospace;
 
   // font sizes
   --large: 1.2rem;
@@ -52,3 +52,9 @@
   --shadow: 0 0 10px 0 var(--overlay);
   --transition: 0.2s ease;
 }
+
+// screen widths
+// used by various components
+$page: 900px; // max-width of the main page column
+$tablet: 800px; // screen width cutoff point for tablets
+$phone: 500px; // screen width cutoff point for phones
