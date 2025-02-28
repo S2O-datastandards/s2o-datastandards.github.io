@@ -18,8 +18,8 @@ $wrap: 800px;
 }
 
 .feature-caption {
-  font-size: 0.9em;
-  colour: #555; 
+  font-size: var(--xs);
+  colour: var(--light-gray); 
   margin-top: 0.5em;
   font-style: italic; 
 }
