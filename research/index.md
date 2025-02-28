@@ -30,7 +30,7 @@ Our approach involves a phased examination of overlapping EHS subdomains, with i
 
 The newly developed standards and terminologies will be rigorously tested through a functional use case, with plans to gradually expand this testing across additional subdomains throughout the project.
 
-![](/images/s2ocontinuum.png)
+![S2O Continuum](/images/s2ocontinuum.png)
 
 {% include section.html %}
 
