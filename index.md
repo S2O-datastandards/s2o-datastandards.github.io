@@ -17,7 +17,7 @@ This project leads the development of community-driven data and metadata standar
 {%
   include link.html
   type="docs"
-  icon=""
+  icon="images/biolink-logo.png"
   text="Visit BioLink"
   link="https://biolink.github.io/biolink-model/"
   style="button"
