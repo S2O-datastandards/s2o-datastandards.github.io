@@ -12,9 +12,9 @@ Our project is focused on developing more precise semantic descriptions of mecha
 ## Goals of our research
 {% capture text %}
 To address these challenges, our work focuses on:
-	•	**Engaging Stakeholders:** Collaborating with expert and stakeholder communities to define robust standards and terminologies.
-	•	**Expanding the Biolink Model:** Advancing this framework to better describe chemical fate, exposure events, and biomarkers within environmental contexts.
-	•	**Establishing a Functional Workflow:** Using a case study as a test system to validate our approach and strengthen predictive capabilities.
+	- **Engaging Stakeholders:** Collaborating with expert and stakeholder communities to define robust standards and terminologies.
+ 	- **Expanding the Biolink Model:** Advancing this framework to better describe chemical fate, exposure events, and biomarkers within environmental contexts.
+  	- **Establishing a Functional Workflow:** Using a case study as a test system to validate our approach and strengthen predictive capabilities.
 
 Through increasing the interoperability of available data, this initiative aims to bridge gaps in the S2O continuum and enhance the predictive power of environmental health data.
 {% endcapture %}
