@@ -25,16 +25,16 @@ This project leads the development of community-driven data and metadata standar
 
 {% include section.html %}
 
-## Highlights
+## Overview
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Opportunities and needs for developing these Standards and Terminologies (S&T) requirements will be gathered by engaging subject matter experts and stakeholders (workgroup members) via a series of focused workshops for discrete phases along the S2O continuum.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our engagement"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -46,18 +46,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Community Engagement"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This project will expand the Biolink Model to better distinguish biomarker measurements from the biological events those biomarkers represent.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse our Standards"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -69,7 +69,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Standards Development"
   flip=true
   style="bare"
   text=text
@@ -77,12 +77,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We will build a functional workflow for quantitative S2O analyses that will test data interoperability via a real-world use case to highlight gaps encountered when using S&T.
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Check out our use case"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -94,6 +94,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Use Case"
   text=text
 %}
