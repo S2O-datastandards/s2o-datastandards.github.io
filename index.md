@@ -44,7 +44,8 @@ Opportunities and needs for developing these Standards and Terminologies (S&T) r
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/community_unsplash_hannah_busing.jpg"
+  caption="Photo by <a href="https://unsplash.com/@hannahbusing?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Hannah Busing</a> on <a href="https://unsplash.com/photos/person-in-red-sweater-holding-babys-hand-Zyx1bK9mqmA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>"
   link="research"
   title="Community Engagement"
   text=text
