@@ -10,7 +10,8 @@ nav:
 {% capture content %}
 
 {% 
-include button.html 
+include button.html
+type="link"
 text="RTI International" 
 link="team/#rti-international" 
 style="button" 
