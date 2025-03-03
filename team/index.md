@@ -16,7 +16,7 @@ style="button"
 
 {% 
 include button.html 
-text="Lawrence Berkeley National Laboratory" 
+text="Lawrence Berkeley<br>National Laboratory" 
 link="#lawrence-berkeley-national-laboratory" 
 style="button" 
 %}
