@@ -12,14 +12,14 @@ nav:
 {% 
 include button.html
 text="RTI International" 
-link="rti-international" 
+link="#rti-international" 
 style="button" 
 %}
 
 {% 
 include button.html 
 text="Lawrence Berkeley National Laboratory" 
-link="lawrence-berkeley-national-laboratory" 
+link="#lawrence-berkeley-national-laboratory" 
 style="button" 
 %}
 
