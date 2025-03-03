@@ -3,7 +3,7 @@ name: Chris Mungall
 image: images/chris_mungall.png
 description:
 role: 
-affiliation: Lawrence Berkely National Laboratory
+affiliation: Lawrence Berkeley National Laboratory
 aliases:
   - Christopher Mungall
   - Christopher J. Mungall
