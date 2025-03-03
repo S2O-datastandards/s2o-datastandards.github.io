@@ -12,13 +12,13 @@ nav:
 {% 
 include button.html 
 text="RTI International" 
-link="team/#rti" 
+link="team/#rti-international" 
 style="button" 
 %}
 
 {% 
 include button.html 
-text="LBNL" 
+text="Lawrence Berkeley National Laboratory" 
 link="team/#lawrence-berkeley-national-laboratory" 
 style="button" 
 %}
@@ -30,13 +30,13 @@ Meet our dedicated project team behind the Source-to-Outcome DataStandards initi
 
 {% include section.html %}
 
-## RTI
+## RTI International
 
-{% include list.html data="members" component="portrait" filter="group == rti" %}
+{% include list.html data="members" component="portrait" filter="group == 'rti'" %}
 
 {% include section.html %}
 
-## LBNL 
+## Lawrence Berkeley National Laboratory 
 
-{% include list.html data="members" component="portrait" filter="group == lbnl" %}
+{% include list.html data="members" component="portrait" filter="group == 'lbnl'" %}
 
