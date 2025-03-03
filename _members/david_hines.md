@@ -1,7 +1,8 @@
 ---
 name: David Hines
 image: images/david_hines.jpg
-role: Principal Investigator
+description: Principal Investigator
+role: pi
 affiliation: RTI International
 aliases:
   - D. Hines
