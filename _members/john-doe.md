@@ -2,9 +2,13 @@
 name: David Hines
 image: images/david_hines.jpg
 role: Principal Investigator
-group: alum
+affiliation: RTI International
+aliases:
+  - D. Hines
+group: 
 links:
-  github: john-doe
+  home-page: https://www.rti.org/expert/david-hines
+  orcid: 0000-0002-7852-3245
+  github:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
