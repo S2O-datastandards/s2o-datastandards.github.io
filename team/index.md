@@ -13,14 +13,14 @@ nav:
 include link.html
 type="link"
 text="RTI International" 
-link="team/#rti-international" 
+link="#rti-international" 
 style="button" 
 %}
 
 {% 
 include button.html 
 text="Lawrence Berkeley National Laboratory" 
-link="team/#lawrence-berkeley-national-laboratory" 
+link="#lawrence-berkeley-national-laboratory" 
 style="button" 
 %}
 
