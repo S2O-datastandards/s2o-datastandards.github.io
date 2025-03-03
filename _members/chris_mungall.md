@@ -7,9 +7,10 @@ aliases:
   - Christopher Mungall
   - Christopher J. Mungall
   - C. Mungall
+  - C. J. Mungall
 group: 
 links:
-  home-page: https://biosciences.lbl.gov/profiles/chris-mungall/
+  home-page: https://berkeleybop.github.io/people/chris-mungall/
   orcid: 0000-0002-6601-2165
-  github:
+  github: cmungall
 ---
