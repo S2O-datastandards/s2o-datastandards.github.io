@@ -37,10 +37,7 @@ Meet our dedicated project team behind the Source-to-Outcome DataStandards initi
 
 {% include section.html %}
 
-{% capture content %}
-
 ## Lawrence Berkeley National Laboratory 
 
 {% include list.html data="members" component="portrait" filter="group == 'lbnl'" %}
 
-{% endcapture %}
