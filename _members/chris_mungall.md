@@ -1,6 +1,7 @@
 ---
 name: Chris Mungall
 image: images/chris_mungall.png
+description:
 role: 
 affiliation: Lawrence Berkely National Laboratory
 aliases:
@@ -8,7 +9,7 @@ aliases:
   - Christopher J. Mungall
   - C. J. Mungall
   - C. Mungall
-group: 
+group: lbnl
 links:
   home-page: https://berkeleybop.github.io/people/chris-mungall/
   orcid: 0000-0002-6601-2165
