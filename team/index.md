@@ -32,11 +32,11 @@ Meet our dedicated project team behind the Source-to-Outcome DataStandards initi
 
 ## RTI
 
-{% include list.html data="members" component="portrait" filter='group:rti' %}
+{% include list.html data="members" component="portrait" filter="group == rti" %}
 
 {% include section.html %}
 
 ## LBNL 
 
-{% include list.html data="members" component="portrait" filter='group:lbnl' %}
+{% include list.html data="members" component="portrait" filter="group == lbnl" %}
 
