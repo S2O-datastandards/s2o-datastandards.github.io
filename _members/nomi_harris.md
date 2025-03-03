@@ -9,7 +9,7 @@ aliases:
   - N. L. Harris
 group: 
 links:
-  home-page: https://profiles.lbl.gov/23652-nomi-harris/about
+  home-page: https://berkeleybop.github.io/people/nomi-harris/
   orcid: 0000-0001-6315-3707
-  github:
+  github: nlharris
 ---
