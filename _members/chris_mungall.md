@@ -6,8 +6,8 @@ affiliation: Lawrence Berkely National Laboratory
 aliases:
   - Christopher Mungall
   - Christopher J. Mungall
-  - C. Mungall
   - C. J. Mungall
+  - C. Mungall
 group: 
 links:
   home-page: https://berkeleybop.github.io/people/chris-mungall/
