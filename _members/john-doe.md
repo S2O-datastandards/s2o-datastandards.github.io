@@ -1,7 +1,7 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
+name: David Hines
+image: images/david_hines.jpg
+role: Principal Investigator
 group: alum
 links:
   github: john-doe
