@@ -32,7 +32,8 @@ Meet our dedicated project team behind the Source-to-Outcome DataStandards initi
 
 ## RTI International
 
-{% include list.html data="members" component="portrait" filter="group == 'rti'" %}
+{% include list.html data="members" component="portrait" filter='group == "rti", role == "pi"' %}
+{% include list.html data="members" component="portrait" filter='group == "rti", role != "pi"' %}
 
 {% include section.html %}
 
