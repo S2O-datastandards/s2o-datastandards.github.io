@@ -3,7 +3,7 @@ name: Nomi Harris
 image: images/nomi_harris.png
 description:
 role: 
-affiliation: Lawrence Berkely National Laboratory
+affiliation: Lawrence Berkeley National Laboratory
 aliases:
   - Nomi L. Harris
   - N. Harris
