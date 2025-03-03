@@ -11,7 +11,6 @@ nav:
 
 {% 
 include button.html
-type="link"
 text="RTI International" 
 link="#rti-international" 
 style="button" 
@@ -28,8 +27,6 @@ style="button"
 
 Meet our dedicated project team behind the Source-to-Outcome DataStandards initiative. This collaborative effort between RTI International and Lawrence Berkeley National Laboratory, funded by the National Institute of Environmental Health Sciences, brings together an interdisciplinary team of highly skilled scientists who are working to develop community-driven data and metadata standards to improve the interoperability of Environmental Health Science data.
 
-
-{% include section.html %}
 
 ## RTI International
 
