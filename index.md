@@ -69,7 +69,7 @@ This project will expand the Biolink Model to better distinguish biomarker measu
 {%
   include feature.html
   image="images/standards_unsplash_patrick_perkins.jpg"
-  caption="Photo by Patrick Perkins on Unsplash
+  caption="Photo by Patrick Perkins on Unsplash"
   link="projects"
   title="Standards Development"
   flip=true
