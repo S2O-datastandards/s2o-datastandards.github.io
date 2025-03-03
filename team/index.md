@@ -5,31 +5,42 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %} Project Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% capture content %}
+
+{% 
+include button.html 
+text="RTI International" 
+link="team/#rti-international" 
+style="button" 
+%}
+
+{% 
+include button.html 
+text="Lawrence Berkeley National Laboratory" 
+link="team/#lawrence-berkeley-national-laboratory" 
+style="button" 
+%}
+
+{% endcapture %}
+
+Meet our dedicated project team behind the Source-to-Outcome DataStandards initiative. This collaborative effort between RTI International and Lawrence Berkeley National Laboratory, funded by the National Institute of Environmental Health Sciences, brings together an interdisciplinary team of highly skilled scientists who are working to develop community-driven data and metadata standards to improve the interoperability of Environmental Health Science data.
+
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+## RTI International
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% include list.html data="members" component="portrait" filter="role == 'pi', group == 'rti'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi', , group == 'rti'" %}
 
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+## Lawrence Berkeley National Laboratory 
+
+{% include list.html data="members" component="portrait" filter="group == 'lbnl'" %}
 
 {% endcapture %}
-
-{% include grid.html style="square" content=content %}
