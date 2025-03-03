@@ -3,7 +3,7 @@ name: Sierra Moxon
 image: images/sierra_moxon.png
 description:
 role: 
-affiliation: Lawrence Berkely National Laboratory
+affiliation: Lawrence Berkeley National Laboratory
 aliases:
   - Sierra T. Moxon
   - S. T. Moxon
