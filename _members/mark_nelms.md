@@ -1,6 +1,6 @@
 ---
 name: Mark Nelms
-image: images/mark_nelms.jpg
+image: images/team/mark_nelms.jpg
 dscription: 
 role: 
 affiliation: RTI International
