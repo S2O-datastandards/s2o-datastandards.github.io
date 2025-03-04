@@ -1,6 +1,6 @@
 ---
 name: Chris Mungall
-image: images/chris_mungall.png
+image: images/team/chris_mungall.png
 description:
 role: 
 affiliation: Lawrence Berkeley National Laboratory
