@@ -1,6 +1,6 @@
 ---
 name: Nomi Harris
-image: images/nomi_harris.png
+image: images/team/nomi_harris.png
 description:
 role: 
 affiliation: Lawrence Berkeley National Laboratory
