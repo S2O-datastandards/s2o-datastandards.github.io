@@ -36,6 +36,7 @@ button {
   padding: 5px;
   background: none;
   color: var(--primary);
+  gap: 10px;
 }
 .button[data-style=bare]:hover {
   color: var(--secondary);
