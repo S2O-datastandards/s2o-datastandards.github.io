@@ -1,6 +1,6 @@
 ---
 name: Jay Rineer
-image: images/jay_rineer.jpg
+image: images/team/jay_rineer.jpg
 dscription:
 role: 
 affiliation: RTI International
