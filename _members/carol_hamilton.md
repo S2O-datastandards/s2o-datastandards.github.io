@@ -1,6 +1,6 @@
 ---
 name: Carol Hamilton
-image: images/carol_hamilton.jpg
+image: images/team/carol_hamilton.jpg
 description:
 role: 
 affiliation: RTI International
