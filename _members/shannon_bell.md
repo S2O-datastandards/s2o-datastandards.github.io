@@ -1,6 +1,6 @@
 ---
 name: Shannon Bell
-image: images/shannon_bell.jpg
+image: images/team/shannon_bell.jpg
 description:
 role: 
 affiliation: RTI International
