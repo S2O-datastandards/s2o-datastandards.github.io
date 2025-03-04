@@ -1,7 +1,7 @@
 - title: Data Standards Poster 
   subtitle: ASCCT 2024
   group: featured
-  image: images/photo.jpg
+  image: images/pub_thumbnail/ascct_2024_thumbnail.jpg
   link: https://s2o-datastandards.github.io/publications/ds_ascct_2024_poster_final.pdf
   description: Data standards to support integrated source to outcome modelling poster presented at ASCCT 2024.
   repo: S2O-datastandards/s2o-datastandards
@@ -11,7 +11,7 @@
 - title: Data Standards Poster
   subtitle: SOT 2025
   group: featured
-  image: images/photo.jpg
+  image: images/pub_thumbnail/sot_2025_thumbnail.jpg
   link: https://s2o-datastandards.github.io/publications/ds_sot_2025_poster_final.pdf
   description: Data standards to support integrated source to outcome modelling poster presented at SOT 2025.
   repo: S2O-datastandards/s2o-datastandards
