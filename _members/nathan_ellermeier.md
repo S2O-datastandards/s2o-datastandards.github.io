@@ -1,6 +1,6 @@
 ---
 name: Nathan Ellermeier
-image: images/nathan_ellermeier.jpg
+image: images/team/nathan_ellermeier.jpg
 description:
 role: 
 affiliation: RTI International
