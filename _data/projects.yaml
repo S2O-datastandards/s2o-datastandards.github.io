@@ -1,22 +1,22 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Data Standards Poster 
+  subtitle: ASCCT 2024
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Data standards to support integrated source to outcome modelling poster presented at ASCCT 2024.
+  repo: S2O-datastandards/s2o-datastandards
   tags:
-    - resource
+    - poster
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Data Standards Poster
+  subtitle: SOT 2025
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Data standards to support integrated source to outcome modelling poster presented at SOT 2025.
+  repo: S2O-datastandards/s2o-datastandards
   tags:
-    - resource
+    - poster
 
 - title: Cool Tutorial
   subtitle: a subtitle
