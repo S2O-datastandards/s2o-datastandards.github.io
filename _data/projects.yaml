@@ -2,7 +2,7 @@
   subtitle: ASCCT 2024
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://s2o-datastandards.github.io/publications/ds_ascct_2024_poster_final.pdf
   description: Data standards to support integrated source to outcome modelling poster presented at ASCCT 2024.
   repo: S2O-datastandards/s2o-datastandards
   tags:
@@ -12,7 +12,7 @@
   subtitle: SOT 2025
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://s2o-datastandards.github.io/publications/ds_sot_2025_poster_final.pdf
   description: Data standards to support integrated source to outcome modelling poster presented at SOT 2025.
   repo: S2O-datastandards/s2o-datastandards
   tags:
