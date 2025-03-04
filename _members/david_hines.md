@@ -1,6 +1,6 @@
 ---
 name: David Hines
-image: images/david_hines.jpg
+image: images/team/david_hines.jpg
 description: Principal Investigator
 role: principal-investigator
 affiliation: RTI International
