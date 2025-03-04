@@ -1,6 +1,6 @@
 ---
 name: Michelle Engle
-image: images/michelle_engle.jpg
+image: images/team/michelle_engle.jpg
 description: 
 role: 
 affiliation: RTI International
