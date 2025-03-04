@@ -1,6 +1,6 @@
 ---
 name: Sierra Moxon
-image: images/sierra_moxon.png
+image: images/team/sierra_moxon.png
 description:
 role: 
 affiliation: Lawrence Berkeley National Laboratory
