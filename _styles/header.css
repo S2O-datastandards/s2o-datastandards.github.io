@@ -118,14 +118,14 @@ nav > a:hover {
 }
 
 header[data-big] {
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
-  flex-direction: column;
+  flex-direction: row;
   padding: 100px 20px;
   top: unset;
 }
 header[data-big] .home {
-  flex-direction: column;
+  flex-direction: row;
   flex-grow: 0;
 }
 header[data-big] .logo {
@@ -133,9 +133,9 @@ header[data-big] .logo {
   flex-shrink: 0;
 }
 header[data-big] .title-text {
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  text-align: center;
+  text-align: left;
 }
 header[data-big] .title {
   font-size: var(--xxl);
