@@ -13,7 +13,7 @@ header {
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
-  padding: 20px;
+  padding: 10px;
   box-shadow: var(--shadow);
 
   @if $sticky {
@@ -29,12 +29,12 @@ header a {
 }
 
 .home {
-  display: inline-flex;
+  display: flex;
   justify-content: flex-start;
   align-items: center;
   gap: 10px;
   flex-basis: 0;
-  /*flex-grow: 1;*/
+  //flex-grow: 1;//
   max-width: 100%;
 }
 
