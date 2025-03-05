@@ -17,7 +17,7 @@ This document briefly outlines how to create thumbnails from PDF documents that 
     - Add the ```bin/``` directory to your [PATH](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)
     - Test that all went well by opening ```cmd``` and making sure that you can call ```pdftoppm -h```
 3. Then use:
-  ```pdftocairo path/to/file.pdf -jpeg -singlefile -scale-to 300 -r 300```
+  ```$ pdftocairo path/to/file.pdf -jpeg -singlefile -scale-to 300 -r 300```
     - This will create a ```.jpg``` file in the current directory
       - e.g. to create the jpeg in the same folder as the original PDF, you would need to move to that directory on the command line.
     - The ```-singlefile``` option only creates an image of the first page
