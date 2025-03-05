@@ -22,6 +22,7 @@ header a {
   align-items: center;
   gap: 10px;
   flex-basis: 0;
+  flex-grow: 1;
   max-width: 100%;
 }
 
@@ -121,12 +122,12 @@ header[data-big] {
   justify-content: flex-start;
   align-items: center;
   flex-direction: row;
-  padding: 100px 20px;
+  padding: 50px 20px;
   top: unset;
 }
 header[data-big] .home {
   flex-direction: row;
-  flex-grow: 0;
+  flex-grow: 1;
 }
 header[data-big] .logo {
   height: 80px;
