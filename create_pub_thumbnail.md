@@ -7,11 +7,11 @@ This document briefly outlines how to create thumbnails from PDF documents that 
 
 1. Install Python and activate environment
 2. Install poppler library (see https://pdf2image.readthedocs.io/en/latest/installation.html for details)
-  **Ubuntu:**
+  <br>**Ubuntu:**
    ```sudo apt-get install poppler-utils```
-  **MacOS:**
+  <br>**MacOS:**
   ```brew install poppler```
-  **Windows:**
+  <br>**Windows:**
   - Download latest release from [oschwartz10612](https://github.com/oschwartz10612/poppler-windows)
   - Move the extracted directory to the desired place on your system
   - Add the ```bin/``` directory to your [PATH](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)
