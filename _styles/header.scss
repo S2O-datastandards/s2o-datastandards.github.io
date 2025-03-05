@@ -134,9 +134,9 @@ header:not([data-big]) {
 }
 
 header[data-big] {
-  justify-content: center;
+  justify-content: flex-start; //centre
   align-items: center;
-  flex-direction: column;
+  flex-direction: row; //column
   padding: $big-padding 20px;
 
   @if $sticky {
@@ -144,7 +144,7 @@ header[data-big] {
   }
 
   .home {
-    flex-direction: column;
+    flex-direction: row; //column
     flex-grow: 0;
   }
 
@@ -154,9 +154,9 @@ header[data-big] {
   }
 
   .title-text {
-    flex-direction: column;
+    flex-direction: row; column
     align-items: center;
-    text-align: center;
+    text-align: left; //centre
   }
 
   .title {
