@@ -18,30 +18,30 @@
   tags:
     - poster
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Coming Soon
+  subtitle: 
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://s2o-datastandards.github.io/
+  description: 
+  repo: S2O-datastandards/s2o-datastandards
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Coming Soon
+  subtitle: 
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://s2o-datastandards.github.io/
+  description: 
+  repo: S2O-datastandards/s2o-datastandards
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: Coming Soon
+  subtitle: 
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://s2o-datastandards.github.io/
+  description: 
+  repo: S2O-datastandards/s2o-datastandards
   tags:
     - software
