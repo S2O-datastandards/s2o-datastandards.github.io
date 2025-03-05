@@ -3,7 +3,7 @@
 
 # Creating Publication Thumbnails
 
-This document briefly outlines how to create thumbnails from PDF documents that can be used as images for "card" components, such as those on the "projects" page.
+This document briefly outlines how to create thumbnails from PDF documents that can be used as images for "card" components, such as those on the "projects" page. This is based on the blog post by Alex Chan [here](https://alexwlchan.net/2019/creating-preview-thumbnails-of-pdf-documents/).
 
 1. Install Python and activate environment
 2. Install poppler library (see https://pdf2image.readthedocs.io/en/latest/installation.html for details)
