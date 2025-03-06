@@ -93,7 +93,7 @@ We will build a functional workflow for quantitative S2O analyses that will test
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/use_case.png"
   link="team"
   title="Use Case"
   text=text
