@@ -82,7 +82,7 @@ We will build a functional workflow for quantitative S2O analyses that will test
 
 {%
   include button.html
-  link="team"
+  link="research"
   text="Check out our use case"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -94,7 +94,7 @@ We will build a functional workflow for quantitative S2O analyses that will test
 {%
   include feature.html
   image="images/use_case.png"
-  link="team"
+  link="research"
   title="Use Case"
   text=text
 %}
