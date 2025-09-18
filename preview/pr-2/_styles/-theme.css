@@ -1,0 +1,47 @@
+[data-dark=false] {
+  --primary: #1e4f96;
+  --secondary: #3eb1c8;
+  --text: #000000;
+  --background: #ffffff;
+  --background-alt: #fafafa;
+  --light-gray: #dfe1e2;
+  --gray: #9da4a8;
+  --dark-gray: #5b6770;
+  --overlay: #00000020;
+}
+
+[data-dark=true] {
+  --primary: #1e4f96;
+  --secondary: #206472;
+  --text: #ffffff;
+  --background: #181818;
+  --background-alt: #1c1c1c;
+  --light-gray: #5b6770;
+  --gray: #9da4a8;
+  --dark-gray: #dfe1e2;
+  --overlay: #ffffff10;
+}
+
+:root {
+  --title: "Lato", sans-serif;
+  --heading: "Open Sans", sans-serif;
+  --body: "Open Sans", sans-serif;
+  --code: "Source Code Pro", monospace;
+  --xxs: 0.4rem;
+  --xs: 0.6rem;
+  --small: 0.8rem;
+  --large: 1.2rem;
+  --xl: 1.4rem;
+  --xxl: 1.6rem;
+  --thin: 200;
+  --regular: 400;
+  --semi-bold: 500;
+  --bold: 600;
+  --spacing: 2;
+  --compact: 1.5;
+  --rounded: 3px;
+  --shadow: 0 0 10px 0 var(--overlay);
+  --transition: 0.2s ease;
+}
+
+/*# sourceMappingURL=-theme.css.map */
