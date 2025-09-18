@@ -42,6 +42,12 @@ search:
   tooltip: Search
   link: $LINK
 
+biolink:
+  icon: biolink-icon-white.svg
+  text: Biolink
+  tooltip: Biolink
+  link: $LINK
+
 # social media
 
 orcid:
