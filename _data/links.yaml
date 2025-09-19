@@ -113,7 +113,7 @@ preprint:
   link: $LINK
 
 manubot:
-  icon: manubot-logo.svg
+  icon: manubot.svg
   text: Manubot
   tooltip: Manubot
   link: $LINK
