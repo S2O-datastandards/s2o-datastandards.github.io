@@ -43,7 +43,7 @@ search:
   link: $LINK
 
 biolink:
-  icon: biolink.svg
+  icon: biolink-icon.svg
   text: Biolink
   tooltip: Biolink
   link: $LINK
