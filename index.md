@@ -16,7 +16,7 @@ This project leads the development of community-driven data and metadata standar
 %}
 {%
   include link.html
-  type = "biolink"
+  type = "manubot"
   icon=""
   text="Visit BioLink"
   link="https://biolink.github.io/biolink-model/"
