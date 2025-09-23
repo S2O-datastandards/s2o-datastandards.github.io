@@ -46,4 +46,11 @@ button {
   flex-direction: row-reverse;
 }
 
+.button img,
+.button svg {
+  width: 22px;
+  height: auto;
+  vertical-align: -3px;
+}
+
 /*# sourceMappingURL=button.css.map */
