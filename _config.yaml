@@ -5,7 +5,7 @@
 title: S2O Data Standards
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
-logo: images/s2o_logo.svg
+#logo: images/s2o_logo.svg #This is set by the "_includes/header.html" file
 header: images/s2o_background.jpg
 footer: images/s2o_background.jpg
 proofer: false
