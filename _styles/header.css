@@ -145,15 +145,4 @@ header[data-big] .subtitle {
   font-size: var(--large);
 }
 
-/* start header image after logo */
-.header {
-  --logo-strip: 265px;
-}
-
-.header::before {
-  left: var(--logo-strip);
-  width: calc(100% - var(--logo-strip));
-  background-position: left center;
-}
-
 /*# sourceMappingURL=header.css.map */
