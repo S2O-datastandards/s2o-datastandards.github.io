@@ -12,7 +12,7 @@ header {
 }
 
 header a {
-  color: var(--text);
+  color: var(--nav-text-dark);
   text-decoration: none;
 }
 
@@ -61,7 +61,7 @@ header a {
   width: 30px;
   height: 30px;
   margin: 0;
-  color: var(--text);
+  color: var(--nav-text-dark);
   appearance: none;
   transition: background var(--transition);
 }
@@ -71,7 +71,7 @@ header a {
   position: absolute;
   left: 50%;
   top: 50%;
-  color: var(--text);
+  color: var(--nav-text-dark);
   font-size: 15px;
   font-family: "Font Awesome 6 Free";
   font-weight: 900;
@@ -98,7 +98,7 @@ nav > a {
 }
 
 nav > a:hover {
-  color: var(--primary);
+  color: var(--nav-text-light);
 }
 
 @media (max-width: 700px) {
