@@ -8,6 +8,8 @@
   --gray: #9da4a8;
   --dark-gray: #5b6770;
   --overlay: #00000020;
+  --nav-text-dark: #1e4f96;
+  --nav-text-light: #3eb1c8;
 }
 
 [data-dark=true] {
@@ -20,6 +22,8 @@
   --gray: #9da4a8;
   --dark-gray: #dfe1e2;
   --overlay: #ffffff10;
+  --nav-text-dark: #1e4f96;
+  --nav-text-light: #3eb1c8;
 }
 
 :root {
