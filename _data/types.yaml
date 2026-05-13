@@ -154,6 +154,11 @@ error:
 
 # publications
 
+presentation:
+  icon: fa-solid fa-person-chalkboard
+  text: Presentation
+  tooltip: Oral Presentation
+
 paper:
   icon: fa-solid fa-scroll
   text: Paper
