@@ -1,7 +1,7 @@
 - title: Schema for Outcomes, Measurements & Assays Environmental Health Sciences Data Standard
   subtitle: SOMA Website
   group: featured
-  image: images/pub_thumbnail/soma_website_thumbnail.jpg
+  image: images/pub_thumbnail/soma_website_thumbnail.svg
   link: https://ehs-data-standards.github.io/soma/
   description: A LinkML schema for representing Key Event and Outcome measurements, assays, and experimental protocols in the context of environmental health sciences (EHS) outcomes research.
   repo: S2O-datastandards/s2o-datastandards
