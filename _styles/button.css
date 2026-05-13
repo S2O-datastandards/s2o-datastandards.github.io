@@ -11,9 +11,8 @@ button {
   justify-content: center;
   align-items: center;
   gap: 10px;
-  max-width: calc(100% - 10px - 10px);
-  min-height: 40px;
-  margin: 10px;
+  max-width: calc(100% - 5px - 5px);
+  margin: 5px;
   padding: 8px 15px;
   border: none;
   border-radius: var(--rounded);
@@ -25,11 +24,12 @@ button {
   font-weight: var(--semi-bold);
   text-decoration: none;
   vertical-align: middle;
+  appearance: none;
   transition: background var(--transition), color var(--transition);
 }
 
 .button:hover {
-  background: var(--secondary);
+  background: var(--text);
   color: var(--background);
 }
 
@@ -39,18 +39,11 @@ button {
   color: var(--primary);
 }
 .button[data-style=bare]:hover {
-  color: var(--secondary);
+  color: var(--text);
 }
 
 .button[data-flip] {
   flex-direction: row-reverse;
-}
-
-.button img,
-.button svg {
-  width: 22px;
-  height: auto;
-  vertical-align: -3px;
 }
 
 /*# sourceMappingURL=button.css.map */
