@@ -7,9 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We welcome input from researchers, data standards developers, and Environmental Health Science practitioners across all subdomains of the S2O continuum.
+Whether you are interested in joining a workgroup, collaborating on standards development, or learning more about our work, please reach out.
 
 {%
   include button.html

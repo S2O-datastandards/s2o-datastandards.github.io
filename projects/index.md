@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our standards development efforts target key gaps in data interoperability across the source-to-outcome (S2O) continuum.
+Working with subject matter experts and stakeholder communities, we are expanding the Biolink Model and related frameworks to better represent chemical fate, exposure, dosimetry, and health outcome data in a way that supports integrated, machine-readable analyses.
 
 {% include tags.html tags="poster, publication, resource, website" %}
 
