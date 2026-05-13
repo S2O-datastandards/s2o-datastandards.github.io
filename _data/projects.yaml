@@ -1,3 +1,13 @@
+- title: Schema for Outcomes, Measurements & Assays Environmental Health Sciences Data Standard
+  subtitle: SOMA Website
+  group: featured
+  image: images/pub_thumbnail/soma_website_thumbnail.jpg
+  link: https://ehs-data-standards.github.io/soma/
+  description: A LinkML schema for representing Key Event and Outcome measurements, assays, and experimental protocols in the context of environmental health sciences (EHS) outcomes research.
+  repo: S2O-datastandards/s2o-datastandards
+  tags:
+    - website
+    
 - title: Supporting source-to-outcome assessment in toxicology through data interoperability 
   subtitle: SOT 2026
   group: featured
@@ -20,7 +30,6 @@
 
 - title: Data Standards to Support Integrated Source to Outcome Modeling
   subtitle: SOT 2025
-  group: featured
   image: images/pub_thumbnail/sot_2025_poster_thumbnail.jpg
   link: https://s2o-datastandards.github.io/publications/ds_sot_2025_poster_final.pdf
   description: Data standards to support integrated source to outcome modelling poster presented at SOT 2025.
