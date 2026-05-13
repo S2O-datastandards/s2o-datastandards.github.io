@@ -13,7 +13,7 @@
   group: featured
   image: images/pub_thumbnail/sot_2026_poster_thumbnail.jpg
   link: https://s2o-datastandards.github.io/publications/ds_sot_2026_poster_final.pdf
-  description: Data standards to support integrated source to outcome modelling poster presented at SOT 2026.
+  description: A LinkML-based data model schema, developed through expert working group engagement, is applied to a PM₂.₅ Adverse Outcome Pathway Bayesian Network to demonstrate probabilistic prediction of mechanistic key events.
   repo: S2O-datastandards/s2o-datastandards
   tags:
     - poster
@@ -23,7 +23,7 @@
   group: featured
   image: images/pub_thumbnail/ncsot_2025_poster_thumbnail.jpg
   link: https://s2o-datastandards.github.io/publications/ds_ncsot_2025_poster_final.pdf
-  description: Data standards to support integrated source to outcome modelling poster presented at NCSOT 2025.
+  description: A preliminary Adverse Outcome Pathway Bayesian Network linking PM₂.₅ exposure to decreased lung function is developed as a quantitative test system for evaluating data interoperability standards.
   repo: S2O-datastandards/s2o-datastandards
   tags:
     - poster
@@ -32,7 +32,7 @@
   subtitle: SOT 2025
   image: images/pub_thumbnail/sot_2025_poster_thumbnail.jpg
   link: https://s2o-datastandards.github.io/publications/ds_sot_2025_poster_final.pdf
-  description: Data standards to support integrated source to outcome modelling poster presented at SOT 2025.
+  description: A phased, community-driven approach to developing and testing Biolink Model standards across environmental health science subdomains, demonstrated through a PM₂.₅ pilot use case with synthetic population modelling.
   repo: S2O-datastandards/s2o-datastandards
   tags:
     - poster
@@ -41,7 +41,7 @@
   subtitle: ASCCT 2024
   image: images/pub_thumbnail/ascct_2024_poster_thumbnail.jpg
   link: https://s2o-datastandards.github.io/publications/ds_ascct_2024_poster_final.pdf
-  description: Data standards to support integrated source to outcome modelling poster presented at ASCCT 2024.
+  description: A coordinated effort to expand data standards and terminologies across environmental health science subdomains to improve interoperability along the source-to-outcome continuum.
   repo: S2O-datastandards/s2o-datastandards
   tags:
     - poster
