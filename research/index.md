@@ -38,4 +38,4 @@ The newly developed standards and terminologies will be rigorously tested throug
 
 ## Publications
 
-Coming Soon!
+{% include list.html component="citation" data="presentations" %}
