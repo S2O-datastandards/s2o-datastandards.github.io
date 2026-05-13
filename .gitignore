@@ -11,5 +11,6 @@ package.json
 package-lock.json
 yarn.lock
 node_modules
-.claude/
+.Rhistory
+.claude
 .ruby-version
