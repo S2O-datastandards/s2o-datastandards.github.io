@@ -1,4 +1,4 @@
-- id: hines-2025-sot-risk-assessment
+- id: 
   title: "Data interoperability in toxicology: Supporting source-to-outcome assessment"
   authors:
     - David E. Hines
@@ -6,7 +6,7 @@
   date: '2025-11-12'
   type: presentation
 
-- id: hines-2025-ehlc-aop
+- id: 
   title: Leveraging standards to link mechanistic frameworks across the source-to-outcome continuum
   authors:
     - David E. Hines
@@ -14,7 +14,7 @@
   date: '2025-06-04'
   type: presentation
 
-- id: moxon-2025-ehlc-aop
+- id: 
   title: Modeling the Path from Source to Outcome with Biolink Model
   authors:
     - Sierra A. T. Moxon
@@ -22,7 +22,7 @@
   date: '2025-06-04'
   type: presentation
 
-- id: caufield-2025-ehlc-aop
+- id: 
   title: Enhancing data harmonization for AOPs with agentic information extraction
   authors:
     - J. Harry Caufield
