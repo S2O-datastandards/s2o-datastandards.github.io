@@ -1,9 +1,19 @@
-- title: Data Standards Poster 
-  subtitle: ASCCT 2024
+- title: Supporting source-to-outcome assessment in toxicology through data interoperability 
+  subtitle: SOT 2026
   group: featured
-  image: images/pub_thumbnail/ascct_2024_thumbnail.jpg
-  link: https://s2o-datastandards.github.io/publications/ds_ascct_2024_poster_final.pdf
-  description: Data standards to support integrated source to outcome modelling poster presented at ASCCT 2024.
+  image: images/pub_thumbnail/ds_sot_2026_poster_final.jpg
+  link: https://s2o-datastandards.github.io/publications/ds_sot_2026_poster_final.pdf
+  description: Data standards to support integrated source to outcome modelling poster presented at SOT 2026.
+  repo: S2O-datastandards/s2o-datastandards
+  tags:
+    - poster
+    
+- title: Data Interoperability Poster 
+  subtitle: NCSOT 2025
+  group: featured
+  image: images/pub_thumbnail/ds_ncsot_2025_poster_final.jpg
+  link: https://s2o-datastandards.github.io/publications/ds_ncsot_2025_poster_final.pdf
+  description: Data standards to support integrated source to outcome modelling poster presented at NCSOT 2025.
   repo: S2O-datastandards/s2o-datastandards
   tags:
     - poster
@@ -14,6 +24,15 @@
   image: images/pub_thumbnail/sot_2025_thumbnail.jpg
   link: https://s2o-datastandards.github.io/publications/ds_sot_2025_poster_final.pdf
   description: Data standards to support integrated source to outcome modelling poster presented at SOT 2025.
+  repo: S2O-datastandards/s2o-datastandards
+  tags:
+    - poster
+
+- title: Data Standards Poster 
+  subtitle: ASCCT 2024
+  image: images/pub_thumbnail/ascct_2024_thumbnail.jpg
+  link: https://s2o-datastandards.github.io/publications/ds_ascct_2024_poster_final.pdf
+  description: Data standards to support integrated source to outcome modelling poster presented at ASCCT 2024.
   repo: S2O-datastandards/s2o-datastandards
   tags:
     - poster
